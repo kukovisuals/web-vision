@@ -1,4 +1,4 @@
-## OpenCv in the Web
+## OpenCv + Web Assembly +  Next.js + React 
 
 ![GitHub Logo](/image/screenshot.png)
 
@@ -12,7 +12,10 @@ npm run dev
 
 git clone https://github.com/opencv/opencv.git
 
-## Windows CMD
+## Docker 
+
+This command is for Windows CMD 
+
 docker run --rm --workdir /code -v %cd%:/code "trzeci/emscripten:latest" python ./platforms/js/build_js.py build
 
 ## Template from vinissimus 
