@@ -1,6 +1,6 @@
 ## OpenCv in the Web
 
-![GitHub Logo](/images/screenshot.png)
+![GitHub Logo](/image/screenshot.png)
 
 ## Start
 
