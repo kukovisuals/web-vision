@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+#public
+/opencv
+opencv.js
+
 # testing
 /coverage
 
